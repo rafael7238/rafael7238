@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafael7238
 - 👀 I’m interested in development, data engenieer and devops
-- 🌱 I’m currently learning Python, PL/SQL, e Flutter
+- 🌱 I’m currently learning Python, PL/SQL, SQL, Power BI e Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
